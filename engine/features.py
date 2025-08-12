@@ -115,7 +115,7 @@ def hotword():
 # find contacts
 def findContact(query):
     
-    words_to_remove = [ASSISTANT_NAME, 'make', 'a', 'to', 'phone', 'call', 'send', 'message', 'wahtsapp', 'video']
+    words_to_remove = [ASSISTANT_NAME, 'make', 'a', 'to', 'phone', 'call', 'send', 'message', 'whatsapp', 'video']
     query = remove_words(query, words_to_remove)
 
     try:
@@ -176,7 +176,7 @@ def whatsApp(mobile_no, message, flag, name):
 # chat bot 
 def chatBot(query):
     user_input = query.lower()
-    chatbot = hugchat.ChatBot(cookie_path="engine\cookies.json")
+    chatbot = hugchat.ChatBot(cookie_path="engine\\cookies.json")
     id = chatbot.new_conversation()
     chatbot.change_conversation(id)
     response =  chatbot.chat(user_input)
