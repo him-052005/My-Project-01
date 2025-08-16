@@ -90,10 +90,8 @@
   <li>📞 <a href="https://drive.google.com/file/d/1g_13mVY5gs0IHjVz8N6d6niqVyT6oyZe/view?usp=drive_link" target="_blank">WhatsApp Call</a></li>
   
   <li>📲 <a href="https://drive.google.com/file/d/1l1jQ-SRIacW19EAgfkBbgBzMqlZXo5zY/view?usp=drive_link" target="_blank">Call on Android</a></li>
-</ul>
 
-<!-- Chat History (image preview, not a video) -->
-<h4>💬 Chat History</h4>
+  <li>💬 Chat History
 <p align="center">
-  <img src="demo/chat_history.png" alt="Chat History" width="600">
+  <img src="demo/chat_history.png" alt="Chat History" width="600"></p>li>
 </p>
