@@ -1,4 +1,4 @@
-<h1 align="center">🤖 Jarvis – Your Personal Desktop Voice Assistant</h1>
+<h1 align="center">🤖 Jarvis – A Personal Voice Assistant</h1>
 
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.11-blue" alt="Python"></a>
