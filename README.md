@@ -77,28 +77,27 @@
 <h2>🎉 Live Demo / Screenshots</h2>
 
 <!-- Starting Jarvis -->
-<h3>🚀 <a href="https://drive.google.com/file/d/1ftNJq-KyLszUOdMRhmI0ej2UVzvgrJtu/view?usp=drive_link" target="_blank">Starting Jarvis</a></h3>
+<h4>🚀 <a href="https://drive.google.com/file/d/1ftNJq-KyLszUOdMRhmI0ej2UVzvgrJtu/view?usp=drive_link" target="_blank">Starting Jarvis</a></h4>
 
 <!-- Web Commands -->
-<h3>🌐 <a href="https://drive.google.com/file/d/1TjhiW3h0Y5FbLeaYuil9XwBpCw-msx5O/view?usp=drive_link" target="_blank">Web Commands</a></h3>
+<h4>🌐 <a href="https://drive.google.com/file/d/1TjhiW3h0Y5FbLeaYuil9XwBpCw-msx5O/view?usp=drive_link" target="_blank">Web Commands</a></h4>
 
 <!-- Keyboard Commands -->
-<h3>⌨️ <a href="https://drive.google.com/file/d/16KPewnmBvUGlYcRh4_MZ_6U5QxqmMLcG/view?usp=drive_link" target="_blank">Keyboard Commands</a></h3>
-
+<h4>⌨️ <a href="https://drive.google.com/file/d/16KPewnmBvUGlYcRh4_MZ_6U5QxqmMLcG/view?usp=drive_link" target="_blank">Keyboard Commands</a></h4>
 <!-- Send message on WhatsApp -->
-<h3>💬📱 <a href="https://drive.google.com/file/d/17dVNZU_Kli8CZMUaHzrzTuQpof-eukTU/view?usp=drive_link" target="_blank">WhatsApp Message</a></h3>
+<h4>💬📱 <a href="https://drive.google.com/file/d/17dVNZU_Kli8CZMUaHzrzTuQpof-eukTU/view?usp=drive_link" target="_blank">WhatsApp Message</a></h4>
 
 <!-- Send message on Android -->
-<h3>🤳📩 <a href="https://drive.google.com/file/d/1yA1YuGDXrzLoNCJ99BSsLfiesElq9gh2/view?usp=drive_link" target="_blank">Send Message on Android</a></h3>
+<h4>🤳📩 <a href="https://drive.google.com/file/d/1yA1YuGDXrzLoNCJ99BSsLfiesElq9gh2/view?usp=drive_link" target="_blank">Send Message on Android</a></h4>
 
 <!-- Make phone call on WhatsApp -->
-<h3>📞🟢 <a href="https://drive.google.com/file/d/1g_13mVY5gs0IHjVz8N6d6niqVyT6oyZe/view?usp=drive_link" target="_blank">WhatsApp Call</a></h3>
+<h4>📞🟢 <a href="https://drive.google.com/file/d/1g_13mVY5gs0IHjVz8N6d6niqVyT6oyZe/view?usp=drive_link" target="_blank">WhatsApp Call</a></h4>
 
 <!-- Make phone call on Android -->
-<h3>📲📞 <a href="https://drive.google.com/file/d/1l1jQ-SRIacW19EAgfkBbgBzMqlZXo5zY/view?usp=drive_link" target="_blank">Call on Android</a></h3>
+<h4>📲📞 <a href="https://drive.google.com/file/d/1l1jQ-SRIacW19EAgfkBbgBzMqlZXo5zY/view?usp=drive_link" target="_blank">Call on Android</a></h4>
 
 <!-- Chat History (image preview, not a video) -->
-<h3>💬 Chat History</h3>
+<h4>💬 Chat History</h4>
 <p align="center">
   <img src="demo/chat_history.png" alt="Chat History" width="600">
 </p>
