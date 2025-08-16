@@ -18,8 +18,13 @@ query = "INSERT INTO web_command VALUES (null,'youtube', 'https://www.youtube.co
 cursor.execute(query)
 con.commit()
 
+# query= "UPDATE contacts SET mobile_no = '9727698146' WHERE id = 110"
+# cursor.execute(query)
+# con.commit()
 
-
+# query = "DROP table contacts"
+# cursor.execute(query)
+# con.commit()
 
 # testing module
 #app_name = "android studio"
