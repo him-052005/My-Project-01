@@ -91,7 +91,5 @@
   
   <li>📲 <a href="https://drive.google.com/file/d/1l1jQ-SRIacW19EAgfkBbgBzMqlZXo5zY/view?usp=drive_link" target="_blank">Call on Android</a></li>
 
-  <li>💬 Chat History
-<p align="center">
-  <img src="demo/chat_history.png" alt="Chat History" width="600"></p></li>
-</p>
+  <li>💬 <a href="https://drive.google.com/file/d/1vMRcwMW4iPj9xCuxOLGJeoV4zJNaPEXx/view?usp=drive_link" target="_blank">Chat History</a></li>
+  </ul>
