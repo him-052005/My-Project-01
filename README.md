@@ -93,5 +93,5 @@
 
   <li>💬 Chat History
 <p align="center">
-  <img src="demo/chat_history.png" alt="Chat History" width="600"></p>li>
+  <img src="demo/chat_history.png" alt="Chat History" width="600"></p></li>
 </p>
